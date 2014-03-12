@@ -1,4 +1,4 @@
-# modresp - Responsive theme for moderat.se
+# Drupal theme skeleton
 
 ##Table of contents
 

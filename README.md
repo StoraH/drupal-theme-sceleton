@@ -9,7 +9,7 @@
 ### Get Started
 Install all dependencies
 
-``bundle insall``
+``bundle install``
 
 Compile the css
 

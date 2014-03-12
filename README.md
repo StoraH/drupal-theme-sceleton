@@ -13,7 +13,7 @@ Install all dependencies
 
 Compile the css
 
-``bundle exec compass wathc``
+``bundle exec compass watch``
 
 <a name="CSS-naming-standard"></a>
 ### CSS naming standard

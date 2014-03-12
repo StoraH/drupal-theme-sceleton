@@ -1,2 +1,0 @@
-drupal-theme-sceleton
-=====================

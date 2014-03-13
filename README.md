@@ -1,4 +1,4 @@
-# modresp - Responsive theme for moderat.se
+# Drupal theme skeleton
 
 ##Table of contents
 
@@ -9,11 +9,11 @@
 ### Get Started
 Install all dependencies
 
-``bundle insall``
+``bundle install``
 
 Compile the css
 
-``bundle exec compass wathc``
+``bundle exec compass watch``
 
 <a name="CSS-naming-standard"></a>
 ### CSS naming standard

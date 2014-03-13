@@ -27,3 +27,4 @@ We use [SUIT naming conventions](https://github.com/suitcss/suit/blob/master/doc
 
 <a name="JavaScript-Style-Guide"></a>
 ### JavaScript Style Guide
+We use [Airbnbs style guide](https://github.com/airbnb/javascript)

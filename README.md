@@ -4,6 +4,7 @@
 
 * [Get started](#Get-started)
 * [CSS naming standard](#CSS-naming-standard)
+* [JavaScript Style Guide](#JavaScript-Style-Guide)
 
 <a name="CSS-naming-standard"></a>
 ### Get Started
@@ -23,3 +24,6 @@ We use [SUIT naming conventions](https://github.com/suitcss/suit/blob/master/doc
 * ComponentName
 * ComponentName--modifierName
 * ComponentName-descendantName
+
+<a name="JavaScript-Style-Guide"></a>
+### JavaScript Style Guide

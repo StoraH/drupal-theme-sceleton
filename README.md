@@ -1,5 +1,7 @@
 # Drupal theme skeleton
 
+![Skeleton](http://i.imgur.com/VvoIcPU.gif)
+
 ##Table of contents
 
 * [Get started](#Get-started)
@@ -8,13 +10,14 @@
 
 <a name="CSS-naming-standard"></a>
 ### Get Started
-Install all dependencies
+You'll need [bundler](http://bundler.io/) and [Node JS](http://nodejs.org/) to get the skeleton to move.
+Then install all dependencies by running these commands from the root of the project:
 
 ``bundle install``
 
 ``npm install``
 
-Watch the files
+Start the watcher
 
 ``grunt watch``
 

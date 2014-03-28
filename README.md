@@ -12,9 +12,11 @@ Install all dependencies
 
 ``bundle install``
 
-Compile the css
+``npm install``
 
-``bundle exec compass watch``
+Watch the files
+
+``grunt watch``
 
 <a name="CSS-naming-standard"></a>
 ### CSS naming standard

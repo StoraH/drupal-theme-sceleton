@@ -1,0 +1,20 @@
+{
+  "name": "drupal-theme-skeleton",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/StoraH/drupal-theme-skeleton.git"
+  },
+  "author": "StoraH",
+  "bugs": {
+    "url": "https://github.com/StoraH/drupal-theme-skeleton/issues"
+  },
+  "homepage": "https://github.com/StoraH/drupal-theme-skeleton",
+  "devDependencies": {
+    "dr-grunt-svg-sprites": "~0.5.4",
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.4",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
